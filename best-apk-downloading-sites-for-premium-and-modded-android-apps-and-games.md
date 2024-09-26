@@ -18,20 +18,21 @@ Find the best APK sites for downloading premium and modded Android apps. Each si
 
 | ID  |     Site Name         |             Website URL              | Verified |
 |-----|:---------------------:|--------------------------------------|:--------:|
-|  1  | `APK___Mirror`       | [Link](https://earn4link.in/JNWm)   |    ✔️    |
-|  2  | `Mod___Combo`        | [Link](https://earn4link.in/3EywFFSc63pH) |    ✔️    |
-|  3  | `Hap___pyMod`        | [Link](https://earn4link.in/UTM06QaH)  |    ✔️    |
-|  4  | `Mo___dyolo`         | [Link](https://earn4link.in/wrZIl69oW) |    ✔️    |
-|  5  | `Luc___ky___Mod___APK` | [Link](https://earn4link.in/UaNKQbcesbw) | ✔️ |
-|  6  | `AN___1`             | [Link](https://earn4link.in/tw6ta4thp)  |    ✔️    |
-|  7  | `Get___Mods___APK`   | [Link](https://earn4link.in/ZBXmcJKk6Mjw5Tq) | ✔️ |
-|  8  | `APK___Done`         | [Link](https://earn4link.in/QZUMKtViu)   |    ✔️    |
-|  9  | `Mod___ded-1`        | [Link](https://earn4link.in/iDy0RhPI0Q)  |    ✔️    |
-| 10  | `Tec___hbigs`        | [Link](https://earn4link.in/7vrFT8)      |    ✔️    |
-| 11  | `Apk___Mod___Get`    | [Link](https://earn4link.in/igpaj)      |    ✔️    |
-| 12  | `Pla___yMods`        | [Link](https://earn4link.in/cuKwG6cDuAef) | ✔️ |
-| 13  | `Mod___Radar`        | [Link](https://earn4link.in/Gu7Nqa65472zFb) |    ✔️    |
-| 14  | `Re___x___Dl`        | [Link](https://earn4link.in/xfQw0ojg)     | ✔️ |
+|  1  | `APK___Mirror`       | [Link](https://earn4link.in/JNWm)   |    ✔️    | <!-- Original: https://www.apkmirror.com -->
+|  2  | `Mod___Combo`        | [Link](https://earn4link.in/3EywFFSc63pH) |    ✔️    | <!-- Original: https://modcombo.com -->
+|  3  | `Hap___pyMod`        | [Link](https://earn4link.in/UTM06QaH)  |    ✔️    | <!-- Original: https://happymod.com -->
+|  4  | `Mo___dyolo`         | [Link](https://earn4link.in/wrZIl69oW) |    ✔️    | <!-- Original: https://modyolo.com -->
+|  5  | `Luc___ky___Mod___APK` | [Link](https://earn4link.in/UaNKQbcesbw) | ✔️ | <!-- Original: https://luckymodapk.com -->
+|  6  | `AN___1`             | [Link](https://earn4link.in/tw6ta4thp)  |    ✔️    | <!-- Original: https://an1.com -->
+|  7  | `Get___Mods___APK`   | [Link](https://earn4link.in/ZBXmcJKk6Mjw5Tq) | ✔️ | <!-- Original: https://getmodsapk.com -->
+|  8  | `APK___Done`         | [Link](https://earn4link.in/QZUMKtViu)   |    ✔️    | <!-- Original: https://apkdone.com -->
+|  9  | `Mod___ded-1`        | [Link](https://earn4link.in/iDy0RhPI0Q)  |    ✔️    | <!-- Original: https://modded-1.com -->
+| 10  | `Tec___hbigs`        | [Link](https://earn4link.in/7vrFT8)      |    ✔️    | <!-- Original: https://techbigs.com -->
+| 11  | `Apk___Mod___Get`    | [Link](https://earn4link.in/igpaj)      |    ✔️    | <!-- Original: https://apkmodget.com -->
+| 12  | `Pla___yMods`        | [Link](https://earn4link.in/cuKwG6cDuAef) | ✔️ | <!-- Original: https://m.playmods.net -->
+| 13  | `Mod___Radar`        | [Link](https://earn4link.in/Gu7Nqa65472zFb) |    ✔️    | <!-- Original: https://modradar.net -->
+| 14  | `Re___x___Dl`        | [Link](https://earn4link.in/xfQw0ojg)     | ✔️ | <!-- Original: https://rexdl.com -->
+
 
 
 **Note:** All links are protected with human verification. Please complete the verification process to access the content.
