@@ -18,9 +18,9 @@ Find the best APK sites for downloading premium and modded Android apps. Each si
 
 | ID  |     Site Name     |            Website URL             | Verified |
 |-----|:-----------------:|-------------------------------------|:--------:|
-|  1  | `APK Mody`        | [apkmody.io](https://apkmody.io)    |    ✔️    |
-|  2  | `Mod Combo`       | [modcombo.com](https://modcombo.com)|    ✔️    |
-|  3  | `HappyMod`        | [happymod.com](https://happymod.com)|    ✔️    |
+|  1  | `APK Mody`        | [Link](https://www.apkmirror.com)    |    ✔️    |
+|  2  | `Mod Combo`       | [Link](https://modcombo.com)|    ✔️    |
+|  3  | `HappyMod`        | [Link](https://happymod.com)|    ✔️    |
 |  4  | `Modyolo`         | [modyolo.com](https://modyolo.com)  |    ✔️    |
 |  5  | `Lucky Mod APK`   | [luckymodapk.com](https://luckymodapk.com)|✔️|
 |  6  | `AN1`             | [an1.com](https://an1.com)          |    ✔️    |
