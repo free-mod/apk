@@ -18,20 +18,20 @@ Find the best APK sites for downloading premium and modded Android apps. Each si
 
 | ID  |     Site Name     |            Website URL             | Verified |
 |-----|:-----------------:|-------------------------------------|:--------:|
-|  1  | `APK Mody`        | [Link](https://www.apkmirror.com)    |    ✔️    |
+|  1  | `APK Mirror`        | [Link](https://www.apkmirror.com)    |    ✔️    |
 |  2  | `Mod Combo`       | [Link](https://modcombo.com)|    ✔️    |
 |  3  | `HappyMod`        | [Link](https://happymod.com)|    ✔️    |
 |  4  | `Modyolo`         | [modyolo.com](https://modyolo.com)  |    ✔️    |
 |  5  | `Lucky Mod APK`   | [luckymodapk.com](https://luckymodapk.com)|✔️|
 |  6  | `AN1`             | [an1.com](https://an1.com)          |    ✔️    |
 |  7  | `Get Mods APK`    | [getmodsapk.com](https://getmodsapk.com)|✔️|
-|  8  | `Moddroid`        | [moddroid.co](https://moddroid.co)  |    ✔️    |
+|  8  | `APK Done`         | [moddroid.co](https://apkdone.com)  |    ✔️    |
 |  9  | `Modded-1`        | [modded-1.com](https://modded-1.com)|    ✔️    |
 | 10  | `Techbigs`        | [techbigs.com](https://techbigs.com)|    ✔️    |
-| 11  | `APK Todo`        | [apktodo.com](https://apktodo.com)  |    ✔️    |
+| 11  | `Apk Mod Get`        | [apktodo.com](https://apkmodget.com)  |    ✔️    |
 | 12  | `PlayMods`        | [m.playmods.net](https://m.playmods.net)|✔️|
 | 13  | `Mod Radar`       | [modradar.net](https://modradar.net)|    ✔️    |
-| 14  | `APK Module`      | [apkmodule.com](https://apkmodule.com)|✔️|
+| 14  | `Rex Dl`      | [apkmodule.com](https://rexdl.com)|✔️|
 
 These sites offer a wide variety of APK downloads including modded versions of popular apps like YouTube, Spotify, and more.
 
